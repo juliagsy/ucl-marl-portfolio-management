@@ -1,4 +1,6 @@
 gym
+gymnasium
+pettingzoo
 ta
 stable-baselines3
 yfinance
